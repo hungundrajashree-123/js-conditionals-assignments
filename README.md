@@ -234,3 +234,5 @@ You can push again to improve your score — GitHub Classroom will always use th
 ---
 
 Good luck!
+# js-conditionals-assignments
+Solved 12 JavaScript conditional problems
